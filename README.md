@@ -132,5 +132,3 @@ git push origin main
 * [Firestore Database](https://firebase.google.com/docs/firestore)
 * [Vite Documentation](https://vitejs.dev/)
 * [React Documentation](https://reactjs.org/)
-
-```
